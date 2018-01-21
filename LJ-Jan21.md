@@ -1,0 +1,7 @@
+Sunday, January 21st 2018
+
+We have just wrapped up week 2. The course is definitely a challenge.  We are really starting to get in to function, arrays, loops and stuff and it looks okay in the class demos, I see how we get from point A to point B but when it comes down to translating the given problems myself that’s another story. I go into this state of mental block and it really is the most draining part because at that point my brain isn’t looking at the problem or for a solution, the insecurities flood in and I go into flight mode.  I guess the important thing is that so far I’ve been able to put everything into perspective and recollect myself to keep going. Such a rollercoaster though.  
+
+Submitted Lab 4, Lab 5 and the About Me project yesterday.  Sadly, was not able to put in the time and effort I would have liked to but I guess that’s the reality of a boot camp. I came home after a full day of lab yesterday, and worked for another 2 hours, trying to submit both labs… made a booboo with git where I made local change to my Master About me project but hadn’t pulled the remote Master in and had changes there too so there was a merge conflict.  Managed to work that out with the help of a friend and submit before my head exploded.
+
+On a positive note, I’m really loving the classroom and coworking set up of the course. Even more so, I’m really loving the people in my class. It’s really an awesome group of people, all with slightly varying backgrounds but all with a common goal and eager to help each other. 
