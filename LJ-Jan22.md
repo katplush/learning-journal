@@ -1,0 +1,5 @@
+Monday, January 22, 2018
+
+Week 3 begins today.  Can’t say that I’m entirely comfortable with all the material we’ve covered but I don’t think that this course is meant to be comfortable… to have mastered loops, arrays, variables and functions in two weeks is probably not possible.  But I feel like I’ve been able to figure out and dissect everything we’ve gone over enough that I can say I generally understand it and how it functions. So, I guess I’m in as good of a place as I can be.  The main challenges this week were getting a grasp on the math functions, arrays and for loops involved, subscript and logical operators. I was definitely lost during the lab time even with the help of multiple people but after getting all the problems written out I was able to go through them and break them down piece by piece.  I seem to have an easier time dissecting a complete problem and understanding it than trying to piece it together.
+ 
+Anyways I’m sure week 3 will have even more challenging challenges so let me save my breath.
