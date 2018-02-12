@@ -1,0 +1,3 @@
+February, 12th 2018
+
+Rolling into week 6!!! Crazy how quickly time flies when you're too busy to notice.  Last week was Part 1 of BusMall which I submitted only partially complete on Saturday night.  It was very difficult figuring out all the code to track the necessary clicks and I just ran out of time to get it to filter into a table. I did though get the images to populate correctly without duplicates and I must say that this project is really cool.  To see the code I wrote doing what it's doing is pretty impressive and exciting.... now to get to a point where that doesn't take 10+ hours to do. 
